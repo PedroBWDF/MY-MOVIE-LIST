@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../翻牌遊戲"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "翻牌遊戲"
+	}
+}
